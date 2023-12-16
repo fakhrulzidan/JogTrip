@@ -87,21 +87,6 @@
                         <h2 class="slide-title title-light">Rasakan Kenyamanan,</h2>
                         <h3 class="slide-sub-title">Menginap di Hotel Impian</h3>
                         <p class="slider-description lead">JogTrip, Temukan Hotel Berkelas dengan Hanya Satu Sentuhan!</p>
-                        <p><a class="slider btn btn-primary" href="main-fitur/senibudaya.php">Gass!</a></p>
-                     </div>
-                     <!-- Col end-->
-                  </div>
-                  <!-- Slider content end-->
-               </div>
-               <!-- Container end-->
-            </div>
-            <div class="carousel-item" style="background-image:url(images/slider/hotel-tentrem.jpg);">
-               <div class="container">
-                  <div class="slider-content text-center">
-                     <div class="col-md-12">
-                        <h2 class="slide-title title-light">Rasakan Kenyamanan,</h2>
-                        <h3 class="slide-sub-title">Menginap di Hotel Impian</h3>
-                        <p class="slider-description lead">JogTrip, Temukan Hotel Berkelas dengan Hanya Satu Sentuhan!</p>
                         <p><a class="slider btn btn-primary" href="main-fitur/room.php">Gass!</a></p>
                      </div>
                      <!-- Col end-->
