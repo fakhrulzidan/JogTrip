@@ -1,6 +1,3 @@
-<?php
-    include "CRUD-main.php"
-?>
 <!DOCTYPE html>
 <html lang="en">
 
